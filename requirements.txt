@@ -1,0 +1,7 @@
+PyQt6
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+google-generativeai
